@@ -14,16 +14,16 @@ All copyrights belong to the respective content creators
 
 |class| instances |
 |------|--------------|
-|abandonment |744|
-|depression |760|
-|fear| 767|
-|happiness |782|
-|hope|737|
-|magic |766|
-|passion |666|
-|peacefulness |592|
+|abandonment| 184|
+|depression| 457|
+|fear |434|
+|happiness| 280|
+|hope |357|
+|magic |429|
+|passion| 347|
+|peacefulness |391|
 
-`1.21 GB` under JPEG compression
+`679 MB` under JPEG compression
 
 ## Model Architecture
 
